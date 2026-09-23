@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated": "2026-09-22 13:15 IST (re-rendered)",
+ "generated": "2026-09-23 07:55 IST (re-rendered)",
  "topics": [
   {
    "name": "CPIM",
@@ -49,7 +49,7 @@
    "bn_name": "মমতা বন্দ্যোপাধ্যায়",
    "group": "person",
    "slug": "mamata-banerjee",
-   "count": 24
+   "count": 22
   },
   {
    "name": "Abhishek Banerjee",
@@ -315,27 +315,6 @@
    "tone_cues": "",
    "keywords": "আইএসএফ, আইএসএফের",
    "gist": "কিন্তু আইএসএফের টানা দু’বারের বিধায়ক নৌশাদ সিদ্দিকি ভাঙড় থেকে নির্বাচিত হয়েছিলেন এই ‘খাম’ প্রতীকেই। তাই নন্দীগ্রামে ভোটযুদ্ধে আইএসএফ প্রার্থীর হাতিয়ার পাল্লাবন্ধ ‘আলমারি’ই।",
-   "words": 543,
-   "url": "https://bartamanpatrika.com/news/daylong-drama-surrounding-by-elections-in-nandigram-rejinagar-milon-in-jail-rabiul-in-fight",
-   "method": "dom:main"
-  },
-  {
-   "topic": "Mamata Banerjee",
-   "topic_bn": "মমতা বন্দ্যোপাধ্যায়",
-   "group": "person",
-   "slug": "mamata-banerjee",
-   "date": "2026-09-19",
-   "time": "22:42",
-   "source": "Bartaman",
-   "source_bn": "বর্তমান",
-   "language": "Bengali",
-   "headline": "উপনির্বাচন ঘিরে দিনভর নাটক নন্দীগ্রাম-রেজিনগরে, মিলন জেলে, রবিউল লড়াইয়ে",
-   "author": "বর্তমান ওয়েবডেস্ক",
-   "tone": "Neutral",
-   "tone_score": 0,
-   "tone_cues": "",
-   "keywords": "মমতার",
-   "gist": "অপরদিকে, নির্বাচন থেকে সরে দাঁড়ানোর কথা ঘোষণা করেছিলেন রেজিনগরে মমতার ‘ফুটবলার’ রবিউল আলম চৌধুরি।",
    "words": 543,
    "url": "https://bartamanpatrika.com/news/daylong-drama-surrounding-by-elections-in-nandigram-rejinagar-milon-in-jail-rabiul-in-fight",
    "method": "dom:main"
@@ -1328,27 +1307,6 @@
    "method": "dom:article"
   },
   {
-   "topic": "Mamata Banerjee",
-   "topic_bn": "মমতা বন্দ্যোপাধ্যায়",
-   "group": "person",
-   "slug": "mamata-banerjee",
-   "date": "2026-09-19",
-   "time": "17:08",
-   "source": "Anandabazar Patrika",
-   "source_bn": "আনন্দবাজার পত্রিকা",
-   "language": "Bengali",
-   "headline": "ছিল বাঁশি, হল টেবিল! হুমায়ুনের দলকে নতুন প্রতীক কমিশনের, ঋতব্রতের কাছে খাম হারিয়ে নওশাদেরা পেলেন আলমারি",
-   "author": "আনন্দবাজার ডট কম সংবাদদাতা",
-   "tone": "Neutral",
-   "tone_score": 0,
-   "tone_cues": "",
-   "keywords": "মমতার",
-   "gist": "মমতা ও ঋতব্রতের মধ্যে দড়ি টানাটানি শুরু হয়। সেইমতো শুক্রবার সকালেই তৎপর হয় মমতা এবং জানায়, মমতার শিবির লড়বে ‘মমতা নিজের হাতে আঁকা জোড়াফুল প্রতীক হাতছাড়া হয় মমতার।",
-   "words": 509,
-   "url": "https://www.anandabazar.com/west-bengal/isf-party-of-naushad-siddiqui-and-party-of-humayun-kabir-got-symbol-for-bypoll-dgtld/cid/1714050",
-   "method": "dom:article"
-  },
-  {
    "topic": "Nausad Siddiqui",
    "topic_bn": "নওশাদ সিদ্দিকি",
    "group": "person",
@@ -2056,7 +2014,7 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "মমতা বন্দ্যোপাধ্যায়, মমতার",
+   "keywords": "মমতা বন্দ্যোপাধ্যায়",
    "gist": "লড়বেন মমতা বন্দ্যোপাধ্যায়ের নেতৃত্বাধীন তৃণমূল প্রার্থী রবিউল আলম চৌধুরী। রবিউল জানিয়েছেন, মমতার সঙ্গে তাঁর কথা হয়েছে। ভোটের ময়দান না ছাড়ার অনুরোধ করেন মমতা। শেষ পর্যন্ত প্রার্থিপদ না ছাড়ার জন‍্য রবিউলকে রাজি করান মমতাই। শুক্রবারই নন্দীগ্রামের মমতা তৃণমূল প্রার্থী সঞ্চিতা প্রধান দে মনোনয়ন",
    "words": 319,
    "url": "https://www.anandabazar.com/west-bengal/nadia-murshidabad/rejinagar-mamata-tmc-candidate-rabiul-alam-chowdhury-decided-to-contest-in-the-by-election-again-dgtld/cid/1713987",
@@ -2203,7 +2161,7 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "মমতা বন্দ্যোপাধ্যায়, মমতার",
+   "keywords": "মমতা বন্দ্যোপাধ্যায়",
    "gist": "কিন্তু সেই জোড়াফুল ব্যবহারের অধিকার আপাতত হারিয়েছেন মমতা বন্দ্যোপাধ্যায়। অন্যদিকে আপ সুপ্রিমো অরবিন্দ কেজরিওয়ালের খোঁচা, মমতার হাত থেকে ঘাসফুল কেড়ে নিয়ে আসলে প্রধানমন্ত্রী জন্মদিনের উপহার দিয়েছেন। অর্থাৎ নন্দীগ্রাম ও রেজিনগরের উপনির্বাচনে অন্য প্রতীকে লড়তে হবে মমতা ও ঋতব্রত শিবিরের প্রার্থীদের।",
    "words": 289,
    "url": "https://www.sangbadpratidin.in/india/rahul-gandhi-arvind-kejriwal-slams-eci-on-tmc-symbol-freeze/pid/1344526/",
@@ -2581,7 +2539,7 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "মমতা বন্দ্যোপাধ্যায়, মমতার",
+   "keywords": "মমতা বন্দ্যোপাধ্যায়",
    "gist": "রেজিনগর কেন্দ্রের মমতাপন্থী তৃণমূল কংগ্রেস প্রার্থী রবিউল আলম চৌধুরীও মনোনয়ন প্রত্যাহার করে নিতে পারেন বলে খবর। সূত্রের খবর, সেই বৈঠকেই আলোচনায় উঠে আসে, নতুন করে মমতাপন্থী দলের নাম ও প্রতীক চেনাতে সমস্যায় পড়তে হতে পারে। তবে দিদিকে (মমতা বন্দ্যোপাধ্যায়) শ্রদ্ধা ও সম্মান করি।",
    "words": 283,
    "url": "https://eisamay.com/west-bengal-news/birbhum-nadia-murshidabad-news/rejinagar-tmc-candidate-rabiul-alam-chowdhury-may-withdraw-candidature/200544359.cms",
