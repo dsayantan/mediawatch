@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated": "2026-09-23 22:44 IST (re-rendered)",
+ "generated": "2026-09-24 22:22 IST (re-rendered)",
  "topics": [
   {
    "name": "CPIM",
@@ -108,11 +108,18 @@
    "count": 0
   },
   {
-   "name": "Election & SIR",
-   "bn_name": "নির্বাচন ও এসআইআর",
+   "name": "Election",
+   "bn_name": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
-   "count": 39
+   "slug": "election",
+   "count": 36
+  },
+  {
+   "name": "SIR",
+   "bn_name": "এসআইআর",
+   "group": "issue",
+   "slug": "sir",
+   "count": 1
   }
  ],
  "items": [
@@ -201,10 +208,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "23:33",
    "source": "ABP Ananda",
@@ -474,10 +481,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "22:53",
    "source": "TV9 Bangla",
@@ -621,10 +628,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "22:05",
    "source": "Ei Samay",
@@ -635,8 +642,8 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "নির্বাচন, উপনির্বাচন, উপনির্বাচনে, নির্বাচন কমিশন",
-   "gist": "তার আগে গত ১৭ সেপ্টেম্বর তৃণমূল কংগ্রেসের প্রতীক ফ্রিজ় করেছে নির্বাচন কমিশন। অর্থাৎ, ‘সর্বভারতীয় তৃণমূল কংগ্রেস’ নামটি উপনির্বাচনে কোনও শিবিরই ব্যবহার করতে পারবে না।",
+   "keywords": "নির্বাচন, নির্বাচন কমিশন",
+   "gist": "প্রধান বিচারপতি সূর্য কান্ত বলেন, ‘আমরা চেষ্টা করব এই সপ্তাহে শুনানি করার।’ গত শুক্রবার কালীঘাটের দলীয় কার্যালয়ে সাংবাদিক সম্মেলন করে নির্বাচন কমিশনকে এক হাত নেন মমতা।",
    "words": 236,
    "url": "https://eisamay.com/west-bengal-news/kolkata-news/supreme-court-on-mamata-banerjees-plea-on-party-name-symbol-issue/200545391.cms",
    "method": "dom:all-p"
@@ -684,10 +691,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "21:53",
    "source": "Bartaman",
@@ -789,10 +796,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "21:44",
    "source": "Bartaman",
@@ -915,10 +922,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "21:33",
    "source": "Bartaman",
@@ -1041,10 +1048,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "20:47",
    "source": "Bartaman",
@@ -1209,10 +1216,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "20:28",
    "source": "Sangbad Pratidin",
@@ -1223,7 +1230,7 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "elections",
+   "keywords": "elections, candidate",
    "gist": "কংগ্রেস, সিপিএম, গণতান্ত্রিক তৃণমূলের প্রার্থীদের সঙ্গে লড়াই হবে বিজেপির শাখারভ সরকারের।",
    "words": 220,
    "url": "https://m.sangbadpratidin.in/article/bengal/wb-by-elections-rsp-withdraws-candidate-from-rejinagar-over-symbol-row/pid/1350204/",
@@ -1608,10 +1615,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "19:39",
    "source": "Zee 24 Ghanta",
@@ -2238,10 +2245,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "18:37",
    "source": "The Telegraph",
@@ -2490,10 +2497,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "18:00",
    "source": "Zee 24 Ghanta",
@@ -2505,7 +2512,7 @@
    "tone_score": 0,
    "tone_cues": "",
    "keywords": "উপনির্বাচন, উপনির্বাচনে",
-   "gist": "কমিশনের বেছে দেওয়া 'খাম' প্রতীকে উপনির্বাচনে লড়বে 'ডেমোক্রেটিক তৃণমূল কংগ্রেস'।",
+   "gist": "কারণ, উপনির্বাচনে নন্দীগ্রামে প্রার্থী দিয়েছে ISF, লড়ছে ঋতশিবিরও।",
    "words": 343,
    "url": "https://zeenews.india.com/bengali/kolkata/naushad-siddiqui-isf-challenges-election-commission-symbol-decision-calcutta-high-court_671694.html",
    "method": "dom:all-p"
@@ -2595,10 +2602,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "17:55",
    "source": "The Statesman",
@@ -2609,7 +2616,7 @@
    "tone": "Neutral",
    "tone_score": -2,
    "tone_cues": "- accused",
-   "keywords": "election",
+   "keywords": "election, assembly election, candidate",
    "gist": "Sahin Kazi is the prime accused in the assembly election-day attack on BJP candidate Debashis Ojha.",
    "words": 213,
    "url": "https://www.thestatesman.com/Kolkata/page/13",
@@ -2700,10 +2707,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "17:20",
    "source": "The Statesman",
@@ -2952,10 +2959,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "17:02",
    "source": "The Statesman",
@@ -2994,10 +3001,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "16:52",
    "source": "Bartaman",
@@ -3030,6 +3037,27 @@
    "tone_score": 0,
    "tone_cues": "",
    "keywords": "কংগ্রেস, কংগ্রেসের, Congress",
+   "gist": "Nandigram | Congress Begins Campaigning as Candidate Remains in Jail | Zee 24 Ghanta",
+   "words": 14,
+   "url": "https://zeenews.india.com/bengali/videos/congress-begins-campaigning-as-candidate-remains-in-jail_671671.html",
+   "method": "dom:all-p"
+  },
+  {
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
+   "group": "issue",
+   "slug": "election",
+   "date": "2026-09-21",
+   "time": "16:50",
+   "source": "Zee 24 Ghanta",
+   "source_bn": "জি ২৪ ঘণ্টা",
+   "language": "Bengali",
+   "headline": "প্রার্থী জেলে, Nandigram-এ প্রচার শুরু কংগ্রেসের | Zee 24 Ghanta | কলকাতা 24 Ghanta, Zee News",
+   "author": "",
+   "tone": "Neutral",
+   "tone_score": 0,
+   "tone_cues": "",
+   "keywords": "candidate",
    "gist": "Nandigram | Congress Begins Campaigning as Candidate Remains in Jail | Zee 24 Ghanta",
    "words": 14,
    "url": "https://zeenews.india.com/bengali/videos/congress-begins-campaigning-as-candidate-remains-in-jail_671671.html",
@@ -4023,10 +4051,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "15:23",
    "source": "The Statesman",
@@ -4037,8 +4065,8 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "bypoll",
-   "gist": "Pradhan is contesting the October 6 Nandigram bypoll as the Congress candidate.",
+   "keywords": "bypoll, candidate",
+   "gist": "Apprehending arrest in five more cases linked to the 2007 Nandigram violence, Congress candidate from Nandigram Milan Pradhan, currently in jail, has moved the Calcutta High Court. Pradhan is contesting the October 6 Nandigram bypoll as the Congress candidate.",
    "words": 422,
    "url": "https://www.thestatesman.com/cities/kolkata/fearing-arrest-in-more-cases-congress-nandigram-candidate-moves-calcutta-hc-1503641109.html",
    "method": "dom:main"
@@ -4128,10 +4156,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "15:21",
    "source": "ABP Ananda",
@@ -4212,10 +4240,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "15:17",
    "source": "Ei Samay",
@@ -4443,27 +4471,6 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
-   "group": "issue",
-   "slug": "election-sir",
-   "date": "2026-09-21",
-   "time": "15:01",
-   "source": "Sangbad Pratidin",
-   "source_bn": "সংবাদ প্রতিদিন",
-   "language": "Bengali",
-   "headline": "ISF MLA Nawsad Siddique to file case at Calcutta HC regarding partys envelope symbol - Sangbad Pratidin",
-   "author": "",
-   "tone": "Neutral",
-   "tone_score": 0,
-   "tone_cues": "",
-   "keywords": "নির্বাচন, নির্বাচন কমিশন, নির্বাচন কমিশনের",
-   "gist": "গত সপ্তাহে নির্বাচন কমিশনের রায়ে মমতা সর্বভারতীয় তৃণমূল কংগ্রেস ও গণতান্ত্রিক তৃণমূল কংগ্রেস আলাদা হওয়ার পর নতুন প্রতীক পেয়েছে তারা।",
-   "words": 238,
-   "url": "https://m.sangbadpratidin.in/article/kolkata/isf-mla-nawsad-siddique-to-file-case-at-calcutta-hc-regarding-partys-envelope-symbol/pid/1349466/",
-   "method": "dom:all-p"
-  },
-  {
    "topic": "Abhishek Banerjee",
    "topic_bn": "অভিষেক বন্দ্যোপাধ্যায়",
    "group": "person",
@@ -4653,10 +4660,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "14:54",
    "source": "Ekdin News",
@@ -4737,10 +4744,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "14:50",
    "source": "Zee 24 Ghanta",
@@ -4884,10 +4891,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "14:27",
    "source": "News18 Bangla",
@@ -4899,7 +4906,7 @@
    "tone_score": 0,
    "tone_cues": "",
    "keywords": "election",
-   "gist": "দেওয়াল লিখন মমতা সর্বভারতীয় তৃণমূল কংগ্রেসের। Wall graffiti supporting Rabiul Alam Chowdhury and the All India Trinamool Congress.",
+   "gist": "দেওয়াল লিখন মমতা সর্বভারতীয় তৃণমূল কংগ্রেসের।",
    "words": 52,
    "url": "https://bengali.news18.com/videos/south-bengal/rejinagar-by-election-2902054.html",
    "method": "dom:all-p"
@@ -5367,10 +5374,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "13:38",
    "source": "News18 Bangla",
@@ -5430,27 +5437,6 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
-   "group": "issue",
-   "slug": "election-sir",
-   "date": "2026-09-21",
-   "time": "13:32",
-   "source": "Sangbad Pratidin",
-   "source_bn": "সংবাদ প্রতিদিন",
-   "language": "Bengali",
-   "headline": "Calcutta High Court order Mamata Banerjee TMC to use the freezed accounts of the party - Sangbad Pratidin",
-   "author": "",
-   "tone": "Neutral",
-   "tone_score": 0,
-   "tone_cues": "",
-   "keywords": "নির্বাচন, নির্বাচন কমিশন",
-   "gist": "কার্যত 'হেভিওয়েট' দুই কেন্দ্রে ভোটের আগে ‘সর্বভারতীয় তৃণমূল কংগ্রেস’ নাম এবং 'জোড়াফুল' প্রতীক ফ্রিজ করে দিয়েছে নির্বাচন কমিশন।",
-   "words": 287,
-   "url": "https://m.sangbadpratidin.in/article/kolkata/calcutta-high-court-order-mamata-banerjee-tmc-to-use-the-freezed-accounts-of-the-party/pid/1349254/",
-   "method": "dom:all-p"
-  },
-  {
    "topic": "TMC",
    "topic_bn": "তৃণমূল কংগ্রেস",
    "group": "party",
@@ -5472,10 +5458,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "13:29",
    "source": "Ekdin News",
@@ -5535,10 +5521,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "SIR",
+   "topic_bn": "এসআইআর",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "sir",
    "date": "2026-09-21",
    "time": "13:24",
    "source": "The Telegraph",
@@ -5640,10 +5626,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "13:01",
    "source": "Uttarbanga Sambad",
@@ -5652,10 +5638,10 @@
    "headline": "Mamata Banerjee | প্রতীক বদল হলেও অ্যাকাউন্ট ব্যবহারে কোনও বাধা নেই! আদালতে বড় স্বস্তি মমতার",
    "author": "Sushmita Ghosh",
    "tone": "Neutral",
-   "tone_score": 2,
-   "tone_cues": "+ নজির",
-   "keywords": "নির্বাচন, নির্বাচন কমিশন",
-   "gist": "উত্তরবঙ্গ সংবাদ অনলাইন ডেস্ক: রাজ্য রাজনীতিতে এক নজিরবিহীন ও উত্তাল পরিস্থিতির সৃষ্টি করে নির্বাচন কমিশন তৃণমূল কংগ্রেসের ( TMC ) নাম এবং ‘জোড়াফুল’ প্রতীক আপাতত ‘ফ্রিজ’ করেছে।",
+   "tone_score": 0,
+   "tone_cues": "",
+   "keywords": "নির্বাচন, নির্বাচন কমিশন, নির্বাচন কমিশনের",
+   "gist": "নির্বাচন কমিশনের এই সিদ্ধান্তের তীব্র প্রতিবাদ জানিয়ে একে গণতন্ত্রের ইতিহাসে কালো দিবস বলে অভিহিত করেছেন মমতা বন্দ্যোপাধ্যায় ( Mamata Banerjee )।",
    "words": 510,
    "url": "https://uttarbangasambad.com/mamata-banerjee-mamata-banerjee-high-court-trinamool-symbol/",
    "method": "dom:article"
@@ -5703,10 +5689,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "12:58",
    "source": "Anandabazar Patrika",
@@ -5808,10 +5794,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "12:39",
    "source": "Zee 24 Ghanta",
@@ -5913,10 +5899,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "12:26",
    "source": "Uttarbanga Sambad",
@@ -5927,8 +5913,8 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "election, by-election",
-   "gist": "নতুন করে আইনি জাঁতাকলে পড়ে আরও গ্রেপ্তারির আশঙ্কা তৈরি হওয়ায় কলকাতা হাইকোর্টের ( Calcutta High Court ) শরণাপন্ন হলেন জেলবন্দি কংগ্রেস প্রার্থী মিলন প্রধান ( Congress Candidate Milan Pradhan )। গত শুক্রবার পূর্ব মেদিনীপুরের চণ্ডীপুর থেকে কংগ্রেস প্রার্থী মিলন প্রধানকে পাকড়াও করে পুলিশ।",
+   "keywords": "election, by-election, candidate",
+   "gist": "নতুন করে আইনি জাঁতাকলে পড়ে আরও গ্রেপ্তারির আশঙ্কা তৈরি হওয়ায় কলকাতা হাইকোর্টের ( Calcutta High Court ) শরণাপন্ন হলেন জেলবন্দি কংগ্রেস প্রার্থী মিলন প্রধান ( Congress Candidate Milan Pradhan )।",
    "words": 312,
    "url": "https://uttarbangasambad.com/milan-pradhan-nandigram-congress-candidate-calcutta-high-court/",
    "method": "dom:article"
@@ -6165,27 +6151,6 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
-   "group": "issue",
-   "slug": "election-sir",
-   "date": "2026-09-21",
-   "time": "11:36",
-   "source": "News18 Bangla",
-   "source_bn": "নিউজ১৮ বাংলা",
-   "language": "Bengali",
-   "headline": "Mamata Banerjee | মমতার মামলায় সুপ্রিম কোর্ট! কমিশনের নির্দেশে স্থগিতাদেশের আরজি | Bangla News",
-   "author": "",
-   "tone": "Neutral",
-   "tone_score": 0,
-   "tone_cues": "",
-   "keywords": "election, Election Commission",
-   "gist": "মামলা গ্রহণ করল প্রধান বিচারপতির বেঞ্চ।Mamata Banerjee moves the Supreme Court against the Election Commission’s interim freeze on the Trinamool Congress name and its traditional “Flowers & Grass” election symbol.",
-   "words": 95,
-   "url": "https://bengali.news18.com/videos/mamata-banerjee-bangla-news-2901741.html",
-   "method": "dom:all-p"
-  },
-  {
    "topic": "Mamata Banerjee",
    "topic_bn": "মমতা বন্দ্যোপাধ্যায়",
    "group": "person",
@@ -6354,10 +6319,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "11:07",
    "source": "Bartaman",
@@ -7047,10 +7012,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "08:36",
    "source": "Anandabazar Patrika",
@@ -7110,10 +7075,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "08:06",
    "source": "Ei Samay",
@@ -7173,10 +7138,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "07:58",
    "source": "Anandabazar Patrika",
@@ -7635,10 +7600,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "06:58",
    "source": "Anandabazar Patrika",
@@ -7908,10 +7873,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "04:00",
    "source": "News18 Bangla",
@@ -8034,10 +7999,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "02:01",
    "source": "Ei Samay",
@@ -8223,10 +8188,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-21",
    "time": "00:32",
    "source": "ABP Ananda",

@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated": "2026-09-23 22:44 IST (re-rendered)",
+ "generated": "2026-09-24 22:22 IST (re-rendered)",
  "topics": [
   {
    "name": "CPIM",
@@ -108,11 +108,18 @@
    "count": 0
   },
   {
-   "name": "Election & SIR",
-   "bn_name": "নির্বাচন ও এসআইআর",
+   "name": "Election",
+   "bn_name": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
-   "count": 18
+   "slug": "election",
+   "count": 20
+  },
+  {
+   "name": "SIR",
+   "bn_name": "এসআইআর",
+   "group": "issue",
+   "slug": "sir",
+   "count": 0
   }
  ],
  "items": [
@@ -222,10 +229,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "23:26",
    "source": "Ei Samay",
@@ -411,10 +418,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "22:42",
    "source": "Bartaman",
@@ -516,10 +523,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "22:16",
    "source": "Bartaman",
@@ -600,10 +607,10 @@
    "method": "dom:main"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "21:34",
    "source": "Bartaman",
@@ -1020,10 +1027,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "18:42",
    "source": "The Telegraph",
@@ -1034,7 +1041,7 @@
    "tone": "Neutral",
    "tone_score": -2,
    "tone_cues": "- accused",
-   "keywords": "election, bypoll, Election Commission",
+   "keywords": "election, bypoll, Election Commission, candidate",
    "gist": "Congress leaders Rahul Gandhi and Mallikarjun Kharge on Friday accused the BJP of targeting the party’s Nandigram bypoll candidate, Milan Pradhan, while Rajya Sabha MP Kapil Sibal questioned the Election Commission’s role in the events surrounding his arrest",
    "words": 549,
    "url": "https://www.telegraphindia.com/west-bengal/murder-of-democracy-rahul-kharge-and-sibal-attack-bjp-ec-over-nandigram-arrest/cid/2180713",
@@ -1146,6 +1153,27 @@
    "method": "dom:article"
   },
   {
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
+   "group": "issue",
+   "slug": "election",
+   "date": "2026-09-19",
+   "time": "17:50",
+   "source": "The Telegraph",
+   "source_bn": "দ্য টেলিগ্রাফ",
+   "language": "English",
+   "headline": "Nandigram Congress candidate Milan Pradhan out of poll campaign after court sends him to custody till October 3",
+   "author": "",
+   "tone": "Neutral",
+   "tone_score": 0,
+   "tone_cues": "",
+   "keywords": "candidate, poll campaign",
+   "gist": "\"The timing (of the arrest) raises serious questions and is the usual BJP formula: dig out an old case. The BJP's politics of vendetta and atrocities show a clear pattern.",
+   "words": 579,
+   "url": "https://www.telegraphindia.com/west-bengal/nandigram-congress-candidate-milan-pradhan-out-of-poll-campaign-after-court-sends-him-to-custody-till-october-3/cid/2180710",
+   "method": "dom:article"
+  },
+  {
    "topic": "ISF",
    "topic_bn": "আইএসএফ",
    "group": "party",
@@ -1230,10 +1258,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "17:21",
    "source": "Sangbad Pratidin",
@@ -1629,10 +1657,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "15:54",
    "source": "Ei Samay",
@@ -1729,6 +1757,27 @@
    "tone_cues": "",
    "keywords": "তৃণমূল, তৃণমূলের, তৃণমূল কংগ্রেস",
    "gist": "বস্তুত, এই মুহূর্তে ‘সর্বভারতীয় তৃণমূল কংগ্রেস’ বলে আর কোনও দলেরই অস্তিত্ব নেই। তৃণমূলের এই দশা কেন হলো, তা নিয়ে চুলচেরা বিশ্লেষণ চলছে রাজনৈতিক মহলে। তবে রাজ্যের বর্তমান মুখ্যমন্ত্রী শুভেন্দু অধিকারী তৃণমূলের এই করুণ দশার কারণ ব্যাখ্যা করেছেন ভিন্ন আঙ্গিক থেকে। তাঁর মতে, তৃণমূল উঠে গিয়েছে ‘রামের অভিশাপে’।",
+   "words": 380,
+   "url": "https://eisamay.com/west-bengal-news/kolkata-news/suvendu-adhikari-slams-tmc-after-ec-temporarily-bans-aitc-and-its-logo/200544494.cms",
+   "method": "dom:all-p"
+  },
+  {
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
+   "group": "issue",
+   "slug": "election",
+   "date": "2026-09-19",
+   "time": "15:13",
+   "source": "Ei Samay",
+   "source_bn": "এই সময়",
+   "language": "Bengali",
+   "headline": "রামচন্দ্রের ‘অভিশাপেই’ ধ্বংস তৃণমূল, তোপ শুভেন্দুর",
+   "author": "মণিপুষ্পক সেনগুপ্ত,দেবার্ঘ্য ভট্টাচার্য্য",
+   "tone": "Neutral",
+   "tone_score": 0,
+   "tone_cues": "",
+   "keywords": "বিধানসভা ভোট",
+   "gist": "বিধানসভা ভোটে বিজেপির প্রচারের সব থেকে বড় অস্ত্র ছি‍ল— ‘তৃণমূল হিন্দু ধর্মের বিরোধী’।",
    "words": 380,
    "url": "https://eisamay.com/west-bengal-news/kolkata-news/suvendu-adhikari-slams-tmc-after-ec-temporarily-bans-aitc-and-its-logo/200544494.cms",
    "method": "dom:all-p"
@@ -1944,10 +1993,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "13:37",
    "source": "The Telegraph",
@@ -1955,10 +2004,10 @@
    "language": "English",
    "headline": "Congress Nandigram candidate Milan Pradhan to appear in court today; Venugopal says party won’t withdraw him",
    "author": "",
-   "tone": "Neutral",
-   "tone_score": -2,
-   "tone_cues": "- accused",
-   "keywords": "election, Election Commission",
+   "tone": "Mixed",
+   "tone_score": 2,
+   "tone_cues": "+ won | - accused",
+   "keywords": "election, Election Commission, candidate",
    "gist": "Venugopal alleged that the BJP was trying to eliminate Opposition voices in Bengal and accused the Election Commission of remaining silent over the developments.",
    "words": 487,
    "url": "https://www.telegraphindia.com/west-bengal/congress-nandigram-candidate-milan-pradhan-to-appear-in-court-kc-venugopal-says-party-wont-withdraw-him/cid/2180678",
@@ -2049,10 +2098,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "12:54",
    "source": "The Telegraph",
@@ -2063,8 +2112,8 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "bypoll, nomination",
-   "gist": "Rabiul Islam, the Mamata Trinamool Congress candidate from Rejinagar, on Saturday reversed his decision to withdraw his nomination and announced that he would contest the Assembly bypoll.",
+   "keywords": "bypoll, nomination, candidate",
+   "gist": "The U-turn came hours after he had said he would pull out of the race, with Islam saying he changed his decision following Mamata Banerjee’s instructions. Speaking to reporters, Islam said he would begin campaigning from Saturday and indicated that Mamata Banerjee may also visit the constituency.",
    "words": 394,
    "url": "https://www.telegraphindia.com/west-bengal/rejinagar-bypoll-mamata-tmc-candidate-rabiul-alam-chowdhury-withdraws-nomination/cid/2180669",
    "method": "dom:article"
@@ -2259,10 +2308,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "12:30",
    "source": "Sangbad Pratidin",
@@ -2343,10 +2392,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "12:24",
    "source": "The Statesman",
@@ -2357,8 +2406,8 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "bypoll",
-   "gist": "The Mamata Banerjee-led Trinamool Congress faction will remain in the Rejinagar bypoll fight after its candidate Rabiul Alam Chowdhury reversed his decision to pull out of the contest within hours on Saturday.",
+   "keywords": "bypoll, candidate",
+   "gist": "Rabiul Alam Chowdhury withdrew from the Rejinagar Assembly bypoll on Saturday, a day after the Mamata Banerjee camp’s candidate pulled out of Nandigram. | IANS",
    "words": 389,
    "url": "https://www.thestatesman.com/bengal/double-bypoll-blow-for-mamata-camp-rejinagar-candidate-withdraws-a-day-after-nandigram-nominee-pulls-out-1503640411.html/amp",
    "method": "dom:article"
@@ -2406,10 +2455,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "12:08",
    "source": "Bartaman",
@@ -2511,10 +2560,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "12:04",
    "source": "The Telegraph",
@@ -2658,10 +2707,10 @@
    "method": "dom:all-p"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "07:49",
    "source": "Ei Samay",
@@ -2672,8 +2721,8 @@
    "tone": "Neutral",
    "tone_score": 0,
    "tone_cues": "",
-   "keywords": "উপনির্বাচন, উপনির্বাচনে, মনোনয়ন",
-   "gist": "নন্দীগ্রাম কেন্দ্রে উপনির্বাচনের প্রার্থী প্রত্যাহারের সিদ্ধান্ত নিয়েছিল কালীঘাটপন্থী তৃণমূল কংগ্রেস। রেজিনগর কেন্দ্রের মমতাপন্থী তৃণমূল কংগ্রেস প্রার্থী রবিউল আলম চৌধুরীও মনোনয়ন প্রত্যাহার করে নিতে পারেন বলে খবর।",
+   "keywords": "মনোনয়ন",
+   "gist": "রেজিনগর কেন্দ্রের মমতাপন্থী তৃণমূল কংগ্রেস প্রার্থী রবিউল আলম চৌধুরীও মনোনয়ন প্রত্যাহার করে নিতে পারেন বলে খবর।",
    "words": 283,
    "url": "https://eisamay.com/west-bengal-news/birbhum-nadia-murshidabad-news/rejinagar-tmc-candidate-rabiul-alam-chowdhury-may-withdraw-candidature/200544359.cms",
    "method": "dom:all-p"
@@ -2847,10 +2896,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "07:41",
    "source": "The Telegraph",
@@ -2973,10 +3022,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "07:22",
    "source": "The Telegraph",
@@ -3162,27 +3211,6 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
-   "group": "issue",
-   "slug": "election-sir",
-   "date": "2026-09-19",
-   "time": "06:05",
-   "source": "The Telegraph",
-   "source_bn": "দ্য টেলিগ্রাফ",
-   "language": "English",
-   "headline": "Black day in democratic history, will fight it out and bounce back: Mamata Banerjee",
-   "author": "",
-   "tone": "Neutral",
-   "tone_score": 0,
-   "tone_cues": "",
-   "keywords": "elections",
-   "gist": "The former chief minister, who had earlier in the day announced unconditional support for the Congress in the high-stakes Nandigram Assembly by-elections after her nominee pulled out, promised a united fight against the BJP.",
-   "words": 575,
-   "url": "https://www.telegraphindia.com/west-bengal/black-day-in-democratic-history-will-fight-it-out-and-bounce-back-mamata-banerjee-prnt/cid/2180592",
-   "method": "dom:article"
-  },
-  {
    "topic": "Congress",
    "topic_bn": "কংগ্রেস",
    "group": "party",
@@ -3198,6 +3226,27 @@
    "tone_score": 0,
    "tone_cues": "",
    "keywords": "Congress",
+   "gist": "The former chief minister, who had earlier in the day announced unconditional support for the Congress in the high-stakes Nandigram Assembly by-elections after her nominee pulled out, promised a united fight against the BJP.",
+   "words": 575,
+   "url": "https://www.telegraphindia.com/west-bengal/black-day-in-democratic-history-will-fight-it-out-and-bounce-back-mamata-banerjee-prnt/cid/2180592",
+   "method": "dom:article"
+  },
+  {
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
+   "group": "issue",
+   "slug": "election",
+   "date": "2026-09-19",
+   "time": "06:05",
+   "source": "The Telegraph",
+   "source_bn": "দ্য টেলিগ্রাফ",
+   "language": "English",
+   "headline": "Black day in democratic history, will fight it out and bounce back: Mamata Banerjee",
+   "author": "",
+   "tone": "Neutral",
+   "tone_score": 0,
+   "tone_cues": "",
+   "keywords": "elections",
    "gist": "The former chief minister, who had earlier in the day announced unconditional support for the Congress in the high-stakes Nandigram Assembly by-elections after her nominee pulled out, promised a united fight against the BJP.",
    "words": 575,
    "url": "https://www.telegraphindia.com/west-bengal/black-day-in-democratic-history-will-fight-it-out-and-bounce-back-mamata-banerjee-prnt/cid/2180592",
@@ -3351,10 +3400,10 @@
    "method": "dom:article"
   },
   {
-   "topic": "Election & SIR",
-   "topic_bn": "নির্বাচন ও এসআইআর",
+   "topic": "Election",
+   "topic_bn": "নির্বাচন",
    "group": "issue",
-   "slug": "election-sir",
+   "slug": "election",
    "date": "2026-09-19",
    "time": "05:46",
    "source": "The Telegraph",
