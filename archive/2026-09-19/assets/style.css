@@ -101,6 +101,16 @@ article.item h3 a{color:inherit;text-decoration:none;}
 article.item h3 a:hover{text-decoration:underline;text-underline-offset:3px;}
 article.item p.gist{margin:0;color:var(--muted);font-size:.96rem;line-height:1.65;}
 article.item .cues{margin-top:7px;font-size:.8rem;color:var(--muted);}
+/* a clipping from the printed paper: the scan is the story, the OCR text under
+   it is only there so the page can be searched and skimmed */
+article.item figure.clip{margin:13px 0 11px;}
+article.item figure.clip a{display:inline-block;max-width:100%;}
+article.item figure.clip img{display:block;width:100%;max-width:560px;height:auto;
+  border:1px solid var(--rule);background:#fff;}
+article.item figure.clip figcaption{margin-top:6px;font-size:.78rem;
+  letter-spacing:.05em;text-transform:uppercase;color:var(--muted);}
+article.item .clipref{margin:2px 0 9px;font-size:.78rem;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--muted);}
 .empty-note{background:var(--paper);border:1px dashed var(--rule);padding:26px 22px;
   text-align:center;color:var(--muted);}
 .counts{display:flex;gap:9px;flex-wrap:wrap;margin:17px 0 24px;}
