@@ -111,6 +111,32 @@ article.item figure.clip figcaption{margin-top:6px;font-size:.78rem;
   letter-spacing:.05em;text-transform:uppercase;color:var(--muted);}
 article.item .clipref{margin:2px 0 9px;font-size:.78rem;letter-spacing:.05em;
   text-transform:uppercase;color:var(--muted);}
+/* most-watched videos: the thumbnail carries the story at a glance, so it
+   leads, and the numbers sit under the title where they can be compared
+   down the column */
+article.vid{display:flex;gap:16px;align-items:flex-start;}
+article.vid .shot{flex:0 0 200px;position:relative;display:block;}
+article.vid .shot img{display:block;width:100%;height:auto;border:1px solid var(--rule);
+  background:#000;}
+article.vid .shot .len{position:absolute;right:5px;bottom:5px;background:rgba(0,0,0,.82);
+  color:#fff;font-size:.72rem;padding:1px 5px;border-radius:2px;
+  font-variant-numeric:tabular-nums;}
+article.vid .body{flex:1 1 auto;min-width:0;}
+article.vid .place{flex:0 0 auto;font-family:var(--bn-display);font-weight:700;
+  font-size:1.5rem;color:var(--red);line-height:1;min-width:2.1rem;
+  font-variant-numeric:tabular-nums;}
+article.vid .figs{margin:7px 0 0;font-size:.85rem;color:var(--muted);
+  font-variant-numeric:tabular-nums;}
+article.vid .figs b{color:var(--ink);font-weight:700;}
+article.vid .chips{margin-top:9px;display:flex;flex-wrap:wrap;gap:6px;}
+article.vid .chips span{font-size:.76rem;padding:2px 8px;border:1px solid var(--rule);
+  border-radius:11px;color:var(--muted);}
+article.vid .chips span.Positive{border-color:#2f7d32;color:#1f5c22;}
+article.vid .chips span.Negative{border-color:#a6332b;color:#8d2822;}
+@media (max-width:620px){
+  article.vid{flex-wrap:wrap;}
+  article.vid .shot{flex:0 0 100%;}
+}
 .empty-note{background:var(--paper);border:1px dashed var(--rule);padding:26px 22px;
   text-align:center;color:var(--muted);}
 .counts{display:flex;gap:9px;flex-wrap:wrap;margin:17px 0 24px;}
