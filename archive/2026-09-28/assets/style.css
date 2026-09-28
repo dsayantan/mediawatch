@@ -125,8 +125,14 @@ aside.rail{min-width:0}
 .egrp ul{list-style:none;margin:0;padding:0}
 .egrp li{border-bottom:1px solid var(--rule)}
 .egrp li:last-child{border-bottom:0}
-.egrp a{display:block;padding:6px 0;color:var(--ink);text-decoration:none;font-size:.88rem}
-.egrp a:hover,.egrp a:focus-visible{color:var(--red);padding-left:4px}
+.egrp li{display:flex;align-items:baseline;gap:8px;justify-content:space-between}
+.egrp a{text-decoration:none}
+.egrp a.news{flex:1 1 auto;padding:6px 0;color:var(--ink);font-size:.88rem}
+.egrp a.news:hover,.egrp a.news:focus-visible{color:var(--red)}
+.egrp a.ep{flex:0 0 auto;font-size:.72rem;color:var(--red);border:1px solid var(--rule);
+  border-radius:10px;padding:1px 8px;white-space:nowrap}
+.egrp a.ep:hover,.egrp a.ep:focus-visible{background:var(--red);color:#fff;
+  border-color:var(--red)}
 article.item .clipref{margin:2px 0 9px;font-size:.78rem;letter-spacing:.05em;
   text-transform:uppercase;color:var(--muted);}
 /* most-watched videos: the thumbnail carries the story at a glance, so it
