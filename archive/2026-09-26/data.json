@@ -1,6 +1,6 @@
 {
  "date": "2026-09-26",
- "generated": "2026-09-27 07:07 IST (re-rendered)",
+ "generated": "2026-09-28 14:41 IST (re-rendered)",
  "topics": [
   {
    "name": "CPIM",
@@ -8806,7 +8806,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "স্কটিশে চাপে পড়ুয়ারা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -8818,7 +8818,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p01-1.jpg",
    "page": 1,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "স্কটিশে চাপে পড়ুয়ারা"
   },
   {
    "topic": "BJP",
@@ -8830,7 +8831,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "স্কটিশে চাপে পড়ুয়ারা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -8842,7 +8843,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p01-1.jpg",
    "page": 1,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "স্কটিশে চাপে পড়ুয়ারা"
   },
   {
    "topic": "TMC",
@@ -8854,7 +8856,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "স্কটিশে চাপে পড়ুয়ারা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -8866,7 +8868,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p01-1.jpg",
    "page": 1,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "স্কটিশে চাপে পড়ুয়ারা"
   },
   {
    "topic": "Congress",
@@ -8878,7 +8881,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "স্থগিত রায় দান",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Mixed",
    "tone_score": 1,
@@ -8890,7 +8893,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p01-1.jpg",
    "page": 1,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "স্থগিত রায় দান"
   },
   {
    "topic": "Mamata Banerjee",
@@ -8902,7 +8906,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "স্কটিশে চাপে পড়ুয়ারা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -8914,7 +8918,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p01-1.jpg",
    "page": 1,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "স্কটিশে চাপে পড়ুয়ারা"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -8926,7 +8931,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "স্থগিত রায় দান",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -8938,7 +8943,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p01-1.jpg",
    "page": 1,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "স্থগিত রায় দান"
   },
   {
    "topic": "Election",
@@ -8950,7 +8956,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "স্কটিশে চাপে পড়ুয়ারা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Mixed",
    "tone_score": -1,
@@ -8962,7 +8968,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p01-1.jpg",
    "page": 1,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "স্কটিশে চাপে পড়ুয়ারা"
   },
   {
    "topic": "Election",
@@ -8974,7 +8981,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "পাপায়া স্কিন গ্রো ঞ্ ০১",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -8986,7 +8993,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p03-1.jpg",
    "page": 3,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "পাপায়া স্কিন গ্রো ঞ্ ০১"
   },
   {
    "topic": "SIR",
@@ -8998,7 +9006,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "পাপায়া স্কিন গ্রো ঞ্ ০১",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9010,7 +9018,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p03-1.jpg",
    "page": 3,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "পাপায়া স্কিন গ্রো ঞ্ ০১"
   },
   {
    "topic": "CPIM",
@@ -9070,7 +9079,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "বিন দীতিনিী দিল কু সিম কোরীয়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9082,7 +9091,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p04-3.jpg",
    "page": 4,
-   "pos": "bottom-left"
+   "pos": "bottom-left",
+   "ocr_line": "বিন দীতিনিী দিল কু সিম কোরীয়"
   },
   {
    "topic": "Election",
@@ -9094,7 +9104,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "বিন দীতিনিী দিল কু সিম কোরীয়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9106,7 +9116,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p04-3.jpg",
    "page": 4,
-   "pos": "bottom-left"
+   "pos": "bottom-left",
+   "ocr_line": "বিন দীতিনিী দিল কু সিম কোরীয়"
   },
   {
    "topic": "CPIM",
@@ -9118,7 +9129,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "নাটকে চাপ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9130,7 +9141,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "নাটকে চাপ"
   },
   {
    "topic": "BJP",
@@ -9142,7 +9154,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "“তাণ্ডব” শর্বরীরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9154,7 +9166,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "“তাণ্ডব” শর্বরীরও"
   },
   {
    "topic": "RSS",
@@ -9166,7 +9179,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "“তাণ্ডব” শর্বরীরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Negative",
    "tone_score": -3,
@@ -9178,7 +9191,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "“তাণ্ডব” শর্বরীরও"
   },
   {
    "topic": "TMC",
@@ -9190,7 +9204,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "“তাণ্ডব” শর্বরীরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9202,7 +9216,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "“তাণ্ডব” শর্বরীরও"
   },
   {
    "topic": "Congress",
@@ -9214,7 +9229,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "নাটকে চাপ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9226,7 +9241,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "নাটকে চাপ"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -9238,7 +9254,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "“তাণ্ডব” শর্বরীরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Negative",
    "tone_score": -3,
@@ -9250,7 +9266,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "“তাণ্ডব” শর্বরীরও"
   },
   {
    "topic": "Md Salim",
@@ -9262,7 +9279,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "নাটকে চাপ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9274,7 +9291,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "নাটকে চাপ"
   },
   {
    "topic": "Election",
@@ -9286,7 +9304,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "“তাণ্ডব” শর্বরীরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Negative",
    "tone_score": -3,
@@ -9298,7 +9316,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "“তাণ্ডব” শর্বরীরও"
   },
   {
    "topic": "CPIM",
@@ -9310,7 +9329,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ধর্নায়, বিক্ষোভে কংগ্রেসও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Negative",
    "tone_score": -5,
@@ -9322,7 +9341,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ধর্নায়, বিক্ষোভে কংগ্রেসও"
   },
   {
    "topic": "BJP",
@@ -9334,7 +9354,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ধর্নায়, বিক্ষোভে কংগ্রেসও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9346,7 +9366,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ধর্নায়, বিক্ষোভে কংগ্রেসও"
   },
   {
    "topic": "TMC",
@@ -9358,7 +9379,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোটার ফেরাতে শীনা্সীরা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -9370,7 +9391,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ভোটার ফেরাতে শীনা্সীরা"
   },
   {
    "topic": "Congress",
@@ -9382,7 +9404,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোটার ফেরাতে শীনা্সীরা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Negative",
    "tone_score": -3,
@@ -9394,7 +9416,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ভোটার ফেরাতে শীনা্সীরা"
   },
   {
    "topic": "Abhishek Banerjee",
@@ -9406,7 +9429,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোটার ফেরাতে শীনা্সীরা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -9418,7 +9441,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ভোটার ফেরাতে শীনা্সীরা"
   },
   {
    "topic": "Minakshi Mukherjee",
@@ -9430,7 +9454,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ধর্নায়, বিক্ষোভে কংগ্রেসও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9442,7 +9466,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ধর্নায়, বিক্ষোভে কংগ্রেসও"
   },
   {
    "topic": "Election",
@@ -9454,7 +9479,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ধর্নায়, বিক্ষোভে কংগ্রেসও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Mixed",
    "tone_score": -1,
@@ -9466,7 +9491,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ধর্নায়, বিক্ষোভে কংগ্রেসও"
   },
   {
    "topic": "SIR",
@@ -9478,7 +9504,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "ধর্নায়, বিক্ষোভে কংগ্রেসও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Negative",
    "tone_score": -7,
@@ -9490,7 +9516,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ধর্নায়, বিক্ষোভে কংগ্রেসও"
   },
   {
    "topic": "BJP",
@@ -9502,7 +9529,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "অভূতপূর্ব বলেও কংগ্রেস ১",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 2,
@@ -9514,7 +9541,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p08-1.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "অভূতপূর্ব বলেও কংগ্রেস ১"
   },
   {
    "topic": "TMC",
@@ -9526,7 +9554,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "5 বাতিল ভানেের করম",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 2,
@@ -9538,7 +9566,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p08-1.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "5 বাতিল ভানেের করম"
   },
   {
    "topic": "Congress",
@@ -9550,7 +9579,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "5 বাতিল ভানেের করম",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Positive",
    "tone_score": 5,
@@ -9562,7 +9591,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p08-1.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "5 বাতিল ভানেের করম"
   },
   {
    "topic": "Mamata Banerjee",
@@ -9574,7 +9604,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "5 বাতিল ভানেের করম",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9586,7 +9616,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p08-1.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "5 বাতিল ভানেের করম"
   },
   {
    "topic": "Election",
@@ -9598,7 +9629,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "অভূতপূর্ব বলেও কংগ্রেস ১",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Positive",
    "tone_score": 5,
@@ -9610,7 +9641,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p08-1.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "অভূতপূর্ব বলেও কংগ্রেস ১"
   },
   {
    "topic": "SIR",
@@ -9622,7 +9654,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "5 বাতিল ভানেের করম",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Mixed",
    "tone_score": -2,
@@ -9634,7 +9666,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p08-1.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "5 বাতিল ভানেের করম"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -9670,7 +9703,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "নর কাজ এগিয়ে নিয়ে যাবে নতুন",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9682,7 +9715,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p09-1.jpg",
    "page": 9,
-   "pos": "middle-right"
+   "pos": "middle-right",
+   "ocr_line": "নর কাজ এগিয়ে নিয়ে যাবে নতুন"
   },
   {
    "topic": "Congress",
@@ -9694,7 +9728,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "আমেরিকার চাপেই জঙ্গি-যোগে ধৃতদের ছাড়, সরব কংগ্রেস",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -9706,7 +9740,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p09-1.jpg",
    "page": 9,
-   "pos": "middle-right"
+   "pos": "middle-right",
+   "ocr_line": "আমেরিকার চাপেই জঙ্গি-যোগে ধৃতদের ছাড়, সরব কংগ্রেস"
   },
   {
    "topic": "Election",
@@ -9718,7 +9753,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "নর কাজ এগিয়ে নিয়ে যাবে নতুন",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Mixed",
    "tone_score": 1,
@@ -9730,7 +9765,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p09-1.jpg",
    "page": 9,
-   "pos": "middle-right"
+   "pos": "middle-right",
+   "ocr_line": "নর কাজ এগিয়ে নিয়ে যাবে নতুন"
   },
   {
    "topic": "BJP",
@@ -9742,7 +9778,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "পিছনে কি টাকার খেলা?",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9754,7 +9790,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p10-1.jpg",
    "page": 10,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "পিছনে কি টাকার খেলা?"
   },
   {
    "topic": "RSS",
@@ -9766,7 +9803,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "পিছনে কি টাকার খেলা?",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9778,7 +9815,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p10-1.jpg",
    "page": 10,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "পিছনে কি টাকার খেলা?"
   },
   {
    "topic": "BJP",
@@ -9790,7 +9828,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "পড়েনি চার্জশিটই",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9802,7 +9840,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p10-2.jpg",
    "page": 10,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "পড়েনি চার্জশিটই"
   },
   {
    "topic": "TMC",
@@ -9814,7 +9853,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "পড়েনি চার্জশিটই",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9826,7 +9865,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p10-2.jpg",
    "page": 10,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "পড়েনি চার্জশিটই"
   },
   {
    "topic": "Election",
@@ -9838,7 +9878,7 @@
    "source": "Anandabazar Patrika (print)",
    "source_bn": "আনন্দবাজার পত্রিকা (ছাপা)",
    "language": "Bengali",
-   "headline": "পড়েনি চার্জশিটই",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -9850,7 +9890,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/abp/abp-p10-2.jpg",
    "page": 10,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "পড়েনি চার্জশিটই"
   },
   {
    "topic": "BJP",
@@ -10006,7 +10047,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "করলেই. বিপদ, মত শমীকের",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10018,7 +10059,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p02-1.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "করলেই. বিপদ, মত শমীকের"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -10030,7 +10072,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "করলেই. বিপদ, মত শমীকের",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -10042,7 +10084,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p02-1.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "করলেই. বিপদ, মত শমীকের"
   },
   {
    "topic": "BJP",
@@ -10054,7 +10097,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "এনসিপিআই: ৮ অক্টোবর পর্ষস্ত সময়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10066,7 +10109,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p02-2.jpg",
    "page": 2,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "এনসিপিআই: ৮ অক্টোবর পর্ষস্ত সময়"
   },
   {
    "topic": "Abhishek Banerjee",
@@ -10078,7 +10122,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "এনসিপিআই: ৮ অক্টোবর পর্ষস্ত সময়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10090,7 +10134,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p02-2.jpg",
    "page": 2,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "এনসিপিআই: ৮ অক্টোবর পর্ষস্ত সময়"
   },
   {
    "topic": "BJP",
@@ -10102,7 +10147,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "শরিক কাটা” পন্নে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10114,7 +10159,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p03-1.jpg",
    "page": 3,
-   "pos": "top-right"
+   "pos": "top-right",
+   "ocr_line": "শরিক কাটা” পন্নে"
   },
   {
    "topic": "CPIM",
@@ -10126,7 +10172,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "বিরোধী -এঁক্যের ডাক সিজেপির",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10138,7 +10184,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p03-2.jpg",
    "page": 3,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিরোধী -এঁক্যের ডাক সিজেপির"
   },
   {
    "topic": "BJP",
@@ -10150,7 +10197,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "বিরোধী -এঁক্যের ডাক সিজেপির",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10162,7 +10209,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p03-2.jpg",
    "page": 3,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিরোধী -এঁক্যের ডাক সিজেপির"
   },
   {
    "topic": "Congress",
@@ -10174,7 +10222,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "বিরোধী -এঁক্যের ডাক সিজেপির",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10186,7 +10234,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p03-2.jpg",
    "page": 3,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিরোধী -এঁক্যের ডাক সিজেপির"
   },
   {
    "topic": "Minakshi Mukherjee",
@@ -10198,7 +10247,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "বিরোধী -এঁক্যের ডাক সিজেপির",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10210,7 +10259,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p03-2.jpg",
    "page": 3,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিরোধী -এঁক্যের ডাক সিজেপির"
   },
   {
    "topic": "SIR",
@@ -10222,7 +10272,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "বিরোধী -এঁক্যের ডাক সিজেপির",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10234,7 +10284,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p03-2.jpg",
    "page": 3,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিরোধী -এঁক্যের ডাক সিজেপির"
   },
   {
    "topic": "CPIM",
@@ -10246,7 +10297,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ডিম, মামলা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10258,7 +10309,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p04-2.jpg",
    "page": 4,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ডিম, মামলা"
   },
   {
    "topic": "BJP",
@@ -10270,7 +10322,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "অভিযুক্ত পদ্ম-নেতা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10282,7 +10334,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p04-2.jpg",
    "page": 4,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "অভিযুক্ত পদ্ম-নেতা"
   },
   {
    "topic": "RSS",
@@ -10294,7 +10347,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "দ্বিগুণ করবে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10306,7 +10359,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p04-2.jpg",
    "page": 4,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "দ্বিগুণ করবে"
   },
   {
    "topic": "TMC",
@@ -10318,7 +10372,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ডিম, মামলা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10330,7 +10384,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p04-2.jpg",
    "page": 4,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ডিম, মামলা"
   },
   {
    "topic": "Mamata Banerjee",
@@ -10342,7 +10397,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ঘিরে টানাপড়েন চলছেই",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10354,7 +10409,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p04-2.jpg",
    "page": 4,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ঘিরে টানাপড়েন চলছেই"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -10366,7 +10422,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ঘিরে টানাপড়েন চলছেই",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10378,7 +10434,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p04-2.jpg",
    "page": 4,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ঘিরে টানাপড়েন চলছেই"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -10390,7 +10447,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "একাংশ চাকরি",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৫",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10402,7 +10459,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p05-1.jpg",
    "page": 5,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "একাংশ চাকরি"
   },
   {
    "topic": "CPIM",
@@ -10414,7 +10472,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "উদ্যোগী কলকাতা ও যাদবপুর",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10426,7 +10484,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p09-1.jpg",
    "page": 9,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "উদ্যোগী কলকাতা ও যাদবপুর"
   },
   {
    "topic": "BJP",
@@ -10438,7 +10497,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোট রাজ্য পুলিশে!",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10450,7 +10509,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p09-1.jpg",
    "page": 9,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "ভোট রাজ্য পুলিশে!"
   },
   {
    "topic": "BJP",
@@ -10462,7 +10522,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোট রাজ্য পুলিশে!",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10474,7 +10534,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p09-2.jpg",
    "page": 9,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ভোট রাজ্য পুলিশে!"
   },
   {
    "topic": "Congress",
@@ -10486,7 +10547,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোট রাজ্য পুলিশে!",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10498,7 +10559,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p09-2.jpg",
    "page": 9,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ভোট রাজ্য পুলিশে!"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -10510,7 +10572,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোট রাজ্য পুলিশে!",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10522,7 +10584,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p09-2.jpg",
    "page": 9,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ভোট রাজ্য পুলিশে!"
   },
   {
    "topic": "Election",
@@ -10534,7 +10597,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "ভোট রাজ্য পুলিশে!",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10546,7 +10609,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p09-2.jpg",
    "page": 9,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ভোট রাজ্য পুলিশে!"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -10558,7 +10622,7 @@
    "source": "Ei Samay (print)",
    "source_bn": "এই সময় (ছাপা)",
    "language": "Bengali",
-   "headline": "জিতল নেপাল",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Positive",
    "tone_score": 3,
@@ -10570,7 +10634,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/eisamay/eisamay-p10-1.jpg",
    "page": 10,
-   "pos": "bottom-left"
+   "pos": "bottom-left",
+   "ocr_line": "জিতল নেপাল"
   },
   {
    "topic": "CPIM",
@@ -10582,7 +10647,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "জানাল দপ্তর",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10594,7 +10659,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p02-1.jpg",
    "page": 2,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "জানাল দপ্তর"
   },
   {
    "topic": "BJP",
@@ -10606,7 +10672,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "জানাল দপ্তর",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10618,7 +10684,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p02-1.jpg",
    "page": 2,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "জানাল দপ্তর"
   },
   {
    "topic": "TMC",
@@ -10630,7 +10697,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "পেকে রা পাকের",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10642,7 +10709,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p02-1.jpg",
    "page": 2,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "পেকে রা পাকের"
   },
   {
    "topic": "BJP",
@@ -10654,7 +10722,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মমতার সভা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10666,7 +10734,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p03-1.jpg",
    "page": 3,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "মমতার সভা"
   },
   {
    "topic": "Election",
@@ -10678,7 +10747,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মমতার সভা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10690,7 +10759,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p03-1.jpg",
    "page": 3,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "মমতার সভা"
   },
   {
    "topic": "Congress",
@@ -10702,7 +10772,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "দু'সপ্তাহ সময়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10714,7 +10784,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p03-2.jpg",
    "page": 3,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "দু'সপ্তাহ সময়"
   },
   {
    "topic": "Mamata Banerjee",
@@ -10726,7 +10797,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মমতার সভা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10738,7 +10809,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p03-2.jpg",
    "page": 3,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "মমতার সভা"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -10750,7 +10822,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "বিলে কাজ করছে স্বরাষ্ট্র",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10762,7 +10834,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p03-2.jpg",
    "page": 3,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "বিলে কাজ করছে স্বরাষ্ট্র"
   },
   {
    "topic": "Election",
@@ -10774,7 +10847,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "শীর্ষে আইএএস",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10786,7 +10859,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p03-2.jpg",
    "page": 3,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "শীর্ষে আইএএস"
   },
   {
    "topic": "CPIM",
@@ -10846,7 +10920,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "আগেই রাজ্য",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৬",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10858,7 +10932,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p06-1.jpg",
    "page": 6,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "আগেই রাজ্য"
   },
   {
    "topic": "TMC",
@@ -10870,7 +10945,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "রপ্তানিতে জোর",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৬",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10882,7 +10957,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p06-1.jpg",
    "page": 6,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "রপ্তানিতে জোর"
   },
   {
    "topic": "Abhishek Banerjee",
@@ -10894,7 +10970,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "বিজেপিতে রদবদল",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৬",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10906,7 +10982,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p06-1.jpg",
    "page": 6,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "বিজেপিতে রদবদল"
   },
   {
    "topic": "BJP",
@@ -10918,7 +10995,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "দুই জাল\"",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৬",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10930,7 +11007,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p06-2.jpg",
    "page": 6,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "দুই জাল\""
   },
   {
    "topic": "Election",
@@ -10942,7 +11020,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "রোড, কোডার্মা, গয়া, অনুগ্রহ নারায়ণ রোড, ডেহরী অন সোন, সাসারাম, না",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৬",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -10954,7 +11032,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p06-3.jpg",
    "page": 6,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "রোড, কোডার্মা, গয়া, অনুগ্রহ নারায়ণ রোড, ডেহরী অন সোন, সাসারাম, না"
   },
   {
    "topic": "Election",
@@ -10966,7 +11045,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "পুরভোটের জন্য এল",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Mixed",
    "tone_score": -1,
@@ -10978,7 +11057,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p07-1.jpg",
    "page": 7,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "পুরভোটের জন্য এল"
   },
   {
    "topic": "BJP",
@@ -10990,7 +11070,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "অশান্তিতে তপ্ত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Negative",
    "tone_score": -3,
@@ -11002,7 +11082,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p08-1.jpg",
    "page": 8,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "অশান্তিতে তপ্ত"
   },
   {
    "topic": "TMC",
@@ -11014,7 +11095,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "পুজোর পরেই",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11026,7 +11107,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p08-1.jpg",
    "page": 8,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "পুজোর পরেই"
   },
   {
    "topic": "Election",
@@ -11038,7 +11120,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "পুজোর পরেই",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11050,7 +11132,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p08-1.jpg",
    "page": 8,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "পুজোর পরেই"
   },
   {
    "topic": "BJP",
@@ -11062,7 +11145,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "লাভ, ল্যান্ড জেহাদ-সহ তিন বিল",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11074,7 +11157,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-1.jpg",
    "page": 11,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "লাভ, ল্যান্ড জেহাদ-সহ তিন বিল"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -11086,7 +11170,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "লাভ, ল্যান্ড জেহাদ-সহ তিন বিল",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11098,7 +11182,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-1.jpg",
    "page": 11,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "লাভ, ল্যান্ড জেহাদ-সহ তিন বিল"
   },
   {
    "topic": "Election",
@@ -11110,7 +11195,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "লাভ, ল্যান্ড জেহাদ-সহ তিন বিল",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11122,7 +11207,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-1.jpg",
    "page": 11,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "লাভ, ল্যান্ড জেহাদ-সহ তিন বিল"
   },
   {
    "topic": "TMC",
@@ -11134,7 +11220,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "দু'সপ্তাহ সময়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11146,7 +11232,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-2.jpg",
    "page": 11,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "দু'সপ্তাহ সময়"
   },
   {
    "topic": "Congress",
@@ -11158,7 +11245,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "দু'সপ্তাহ সময়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11170,7 +11257,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-2.jpg",
    "page": 11,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "দু'সপ্তাহ সময়"
   },
   {
    "topic": "Mamata Banerjee",
@@ -11182,7 +11270,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "গত. দুই ইউসিসির বস",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11194,7 +11282,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-2.jpg",
    "page": 11,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "গত. দুই ইউসিসির বস"
   },
   {
    "topic": "Congress",
@@ -11206,7 +11295,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "আমি জানি: শুভেন্দু ভ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11218,7 +11307,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-3.jpg",
    "page": 11,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "আমি জানি: শুভেন্দু ভ"
   },
   {
    "topic": "Election",
@@ -11230,7 +11320,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মদ্যপ পাইলট",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11242,7 +11332,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-3.jpg",
    "page": 11,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "মদ্যপ পাইলট"
   },
   {
    "topic": "CPIM",
@@ -11254,7 +11345,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "উমা শরণে নিখোঁজ মেয়েকে আজও খোঁজেন জবারানি",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11266,7 +11357,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-4.jpg",
    "page": 11,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "উমা শরণে নিখোঁজ মেয়েকে আজও খোঁজেন জবারানি"
   },
   {
    "topic": "Md Salim",
@@ -11278,7 +11370,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "উমা শরণে নিখোঁজ মেয়েকে আজও খোঁজেন জবারানি",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11290,7 +11382,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-4.jpg",
    "page": 11,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "উমা শরণে নিখোঁজ মেয়েকে আজও খোঁজেন জবারানি"
   },
   {
    "topic": "Election",
@@ -11302,7 +11395,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "উমা শরণে নিখোঁজ মেয়েকে আজও খোঁজেন জবারানি",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11314,7 +11407,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p11-4.jpg",
    "page": 11,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "উমা শরণে নিখোঁজ মেয়েকে আজও খোঁজেন জবারানি"
   },
   {
    "topic": "CPIM",
@@ -11350,7 +11444,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "তৃণম্ল নেতা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11362,7 +11456,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p12-1.jpg",
    "page": 12,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "তৃণম্ল নেতা"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -11374,7 +11469,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "তৃণম্ল নেতা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11386,7 +11481,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p12-1.jpg",
    "page": 12,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "তৃণম্ল নেতা"
   },
   {
    "topic": "BJP",
@@ -11398,7 +11494,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "« জ্যোতির্ময়ের সঙ্গে পদাধিকারী বিদ্যাসাগরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 2,
@@ -11410,7 +11506,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p13-1.jpg",
    "page": 13,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "« জ্যোতির্ময়ের সঙ্গে পদাধিকারী বিদ্যাসাগরও"
   },
   {
    "topic": "TMC",
@@ -11422,7 +11519,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "« জ্যোতির্ময়ের সঙ্গে পদাধিকারী বিদ্যাসাগরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 2,
@@ -11434,7 +11531,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p13-1.jpg",
    "page": 13,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "« জ্যোতির্ময়ের সঙ্গে পদাধিকারী বিদ্যাসাগরও"
   },
   {
    "topic": "Abhishek Banerjee",
@@ -11446,7 +11544,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "নরেন্দ্রনাথকে ঘিরে বিক্ষোভ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11458,7 +11556,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p13-1.jpg",
    "page": 13,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "নরেন্দ্রনাথকে ঘিরে বিক্ষোভ"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -11470,7 +11569,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "« জ্যোতির্ময়ের সঙ্গে পদাধিকারী বিদ্যাসাগরও",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11482,7 +11581,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p13-1.jpg",
    "page": 13,
-   "pos": "top-centre"
+   "pos": "top-centre",
+   "ocr_line": "« জ্যোতির্ময়ের সঙ্গে পদাধিকারী বিদ্যাসাগরও"
   },
   {
    "topic": "CPIM",
@@ -11494,7 +11594,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "তীব্র আব্রমণ শিক্ষামন্ত্রীর",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৫",
    "author": "",
    "tone": "Positive",
    "tone_score": 3,
@@ -11506,7 +11606,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p15-1.jpg",
    "page": 15,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "তীব্র আব্রমণ শিক্ষামন্ত্রীর"
   },
   {
    "topic": "TMC",
@@ -11518,7 +11619,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "কজওয়ে জলবন্দি, মিন",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৫",
    "author": "",
    "tone": "Positive",
    "tone_score": 3,
@@ -11530,7 +11631,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p15-1.jpg",
    "page": 15,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "কজওয়ে জলবন্দি, মিন"
   },
   {
    "topic": "BJP",
@@ -11542,7 +11644,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মমতার সভা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11554,7 +11656,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p17-1.jpg",
    "page": 17,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "মমতার সভা"
   },
   {
    "topic": "Election",
@@ -11566,7 +11669,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মমতার সভা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11578,7 +11681,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p17-1.jpg",
    "page": 17,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "মমতার সভা"
   },
   {
    "topic": "Congress",
@@ -11590,7 +11694,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "দু'সপ্তাহ সময়",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11602,7 +11706,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p17-2.jpg",
    "page": 17,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "দু'সপ্তাহ সময়"
   },
   {
    "topic": "Mamata Banerjee",
@@ -11614,7 +11719,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মমতার সভা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11626,7 +11731,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p17-2.jpg",
    "page": 17,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "মমতার সভা"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -11638,7 +11744,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "বিলে কাজ করছে স্বরাষ্ট্র",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11650,7 +11756,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p17-2.jpg",
    "page": 17,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "বিলে কাজ করছে স্বরাষ্ট্র"
   },
   {
    "topic": "Election",
@@ -11662,7 +11769,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "মদ্যপ পাইলট",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11674,7 +11781,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p17-2.jpg",
    "page": 17,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "মদ্যপ পাইলট"
   },
   {
    "topic": "CPIM",
@@ -11710,7 +11818,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "আটাবাগান নিতে কে শ্রী রিং রয়েছে মী আনন্দময় বন,",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11722,7 +11830,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p19-1.jpg",
    "page": 19,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "আটাবাগান নিতে কে শ্রী রিং রয়েছে মী আনন্দময় বন,"
   },
   {
    "topic": "TMC",
@@ -11734,7 +11843,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "আটাবাগান নিতে কে শ্রী রিং রয়েছে মী আনন্দময় বন,",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11746,7 +11855,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p19-1.jpg",
    "page": 19,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "আটাবাগান নিতে কে শ্রী রিং রয়েছে মী আনন্দময় বন,"
   },
   {
    "topic": "Election",
@@ -11758,7 +11868,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "আটাবাগান নিতে কে শ্রী রিং রয়েছে মী আনন্দময় বন,",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11770,7 +11880,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p19-1.jpg",
    "page": 19,
-   "pos": "top-left"
+   "pos": "top-left",
+   "ocr_line": "আটাবাগান নিতে কে শ্রী রিং রয়েছে মী আনন্দময় বন,"
   },
   {
    "topic": "BJP",
@@ -11782,7 +11893,7 @@
    "source": "Sangbad Pratidin (print)",
    "source_bn": "সংবাদ প্রতিদিন (ছাপা)",
    "language": "Bengali",
-   "headline": "স্টাক রিপোর্টার, শত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11794,7 +11905,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/pratidin/pratidin-p19-2.jpg",
    "page": 19,
-   "pos": "middle-right"
+   "pos": "middle-right",
+   "ocr_line": "স্টাক রিপোর্টার, শত"
   },
   {
    "topic": "CPIM",
@@ -11806,7 +11918,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "হাতেনাতে ধৃত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -11818,7 +11930,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p01-1.jpg",
    "page": 1,
-   "pos": "top-right"
+   "pos": "top-right",
+   "ocr_line": "হাতেনাতে ধৃত"
   },
   {
    "topic": "BJP",
@@ -11950,7 +12063,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "পোশাক তৈরির কারখানা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -11962,7 +12075,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p01-4.jpg",
    "page": 1,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "পোশাক তৈরির কারখানা"
   },
   {
    "topic": "BJP",
@@ -11974,7 +12088,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জামিনে মুক্ত পার্টিনেতা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Negative",
    "tone_score": -6,
@@ -11986,7 +12100,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p01-4.jpg",
    "page": 1,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "জামিনে মুক্ত পার্টিনেতা"
   },
   {
    "topic": "TMC",
@@ -11998,7 +12113,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "পোশাক তৈরির কারখানা",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12010,7 +12125,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p01-4.jpg",
    "page": 1,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "পোশাক তৈরির কারখানা"
   },
   {
    "topic": "CPIM",
@@ -12022,7 +12138,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জেলা সম্মেলন",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12034,7 +12150,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p01-5.jpg",
    "page": 1,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "জেলা সম্মেলন"
   },
   {
    "topic": "CPIM",
@@ -12046,7 +12163,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "চাপা পড়ে বৃদ্ধের মৃতু",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12058,7 +12175,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p02-1.jpg",
    "page": 2,
-   "pos": "top-right"
+   "pos": "top-right",
+   "ocr_line": "চাপা পড়ে বৃদ্ধের মৃতু"
   },
   {
    "topic": "CPIM",
@@ -12070,7 +12188,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12082,7 +12200,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p02-2.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "সোচ্চার মানুষ"
   },
   {
    "topic": "BJP",
@@ -12094,7 +12213,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12106,7 +12225,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p02-2.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "সোচ্চার মানুষ"
   },
   {
    "topic": "RSS",
@@ -12118,7 +12238,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12130,7 +12250,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p02-2.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "সোচ্চার মানুষ"
   },
   {
    "topic": "TMC",
@@ -12142,7 +12263,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12154,7 +12275,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p02-2.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "সোচ্চার মানুষ"
   },
   {
    "topic": "Election",
@@ -12166,7 +12288,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -12178,7 +12300,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p02-2.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "সোচ্চার মানুষ"
   },
   {
    "topic": "SIR",
@@ -12190,7 +12313,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ২",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12202,7 +12325,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p02-2.jpg",
    "page": 2,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "সোচ্চার মানুষ"
   },
   {
    "topic": "BJP",
@@ -12262,7 +12386,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "চেয়ে সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12274,7 +12398,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p03-1.jpg",
    "page": 3,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "চেয়ে সোচ্চার মানুষ"
   },
   {
    "topic": "Election",
@@ -12286,7 +12411,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "চেয়ে সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12298,7 +12423,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p03-1.jpg",
    "page": 3,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "চেয়ে সোচ্চার মানুষ"
   },
   {
    "topic": "SIR",
@@ -12310,7 +12436,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "চেয়ে সোচ্চার মানুষ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12322,7 +12448,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p03-1.jpg",
    "page": 3,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "চেয়ে সোচ্চার মানুষ"
   },
   {
    "topic": "SIR",
@@ -12334,7 +12461,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "ফোনে হুমকি",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৩",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12346,7 +12473,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p03-2.jpg",
    "page": 3,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "ফোনে হুমকি"
   },
   {
    "topic": "BJP",
@@ -12478,7 +12606,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "করার আহ্বান সিপিআই(এম)”র",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12490,7 +12618,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p04-2.jpg",
    "page": 4,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "করার আহ্বান সিপিআই(এম)”র"
   },
   {
    "topic": "BJP",
@@ -12502,7 +12631,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "করার আহ্বান সিপিআই(এম)”র",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12514,7 +12643,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p04-2.jpg",
    "page": 4,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "করার আহ্বান সিপিআই(এম)”র"
   },
   {
    "topic": "RSS",
@@ -12526,7 +12656,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "করার আহ্বান সিপিআই(এম)”র",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12538,7 +12668,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p04-2.jpg",
    "page": 4,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "করার আহ্বান সিপিআই(এম)”র"
   },
   {
    "topic": "Election",
@@ -12550,7 +12681,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "করার আহ্বান সিপিআই(এম)”র",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Mixed",
    "tone_score": 0,
@@ -12562,7 +12693,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p04-2.jpg",
    "page": 4,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "করার আহ্বান সিপিআই(এম)”র"
   },
   {
    "topic": "SIR",
@@ -12574,7 +12706,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "করার আহ্বান সিপিআই(এম)”র",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৪",
    "author": "",
    "tone": "Mixed",
    "tone_score": 0,
@@ -12586,7 +12718,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p04-2.jpg",
    "page": 4,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "করার আহ্বান সিপিআই(এম)”র"
   },
   {
    "topic": "CPIM",
@@ -12718,7 +12851,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "বিরোধী আইন আনার হুঙ্কার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12730,7 +12863,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিরোধী আইন আনার হুঙ্কার"
   },
   {
    "topic": "RSS",
@@ -12742,7 +12876,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "তালিকাতেই ভোট",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12754,7 +12888,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "তালিকাতেই ভোট"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -12766,7 +12901,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "তালিকাতেই ভোট",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12778,7 +12913,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "তালিকাতেই ভোট"
   },
   {
    "topic": "Election",
@@ -12790,7 +12926,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "বিরোধী আইন আনার হুঙ্কার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12802,7 +12938,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিরোধী আইন আনার হুঙ্কার"
   },
   {
    "topic": "SIR",
@@ -12814,7 +12951,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "তালিকাতেই ভোট",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৭",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12826,7 +12963,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p07-1.jpg",
    "page": 7,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "তালিকাতেই ভোট"
   },
   {
    "topic": "CPIM",
@@ -12838,7 +12976,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "প্রতিবাদে উত্তাল দেশ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Negative",
    "tone_score": -3,
@@ -12850,7 +12988,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-1.jpg",
    "page": 8,
-   "pos": "middle-right"
+   "pos": "middle-right",
+   "ocr_line": "প্রতিবাদে উত্তাল দেশ"
   },
   {
    "topic": "Election",
@@ -12862,7 +13001,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "প্রতিবাদে উত্তাল দেশ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12874,7 +13013,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-1.jpg",
    "page": 8,
-   "pos": "middle-right"
+   "pos": "middle-right",
+   "ocr_line": "প্রতিবাদে উত্তাল দেশ"
   },
   {
    "topic": "CPIM",
@@ -12886,7 +13026,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "মা সিজেপি'র র মুখ্য আনার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 1,
@@ -12898,7 +13038,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-2.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "মা সিজেপি'র র মুখ্য আনার"
   },
   {
    "topic": "Congress",
@@ -12910,7 +13051,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "প্রথম উনি মোস্তারি বানু সহ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12922,7 +13063,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-2.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "প্রথম উনি মোস্তারি বানু সহ"
   },
   {
    "topic": "Minakshi Mukherjee",
@@ -12934,7 +13076,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "প্রতিবাদে উত্তাল দেশ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -12946,7 +13088,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-2.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "প্রতিবাদে উত্তাল দেশ"
   },
   {
    "topic": "Election",
@@ -12958,7 +13101,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "প্রতিবাদে উত্তাল দেশ",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Negative",
    "tone_score": -3,
@@ -12970,7 +13113,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-2.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "প্রতিবাদে উত্তাল দেশ"
   },
   {
    "topic": "SIR",
@@ -12982,7 +13126,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "মা সিজেপি'র র মুখ্য আনার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -12994,7 +13138,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-2.jpg",
    "page": 8,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "মা সিজেপি'র র মুখ্য আনার"
   },
   {
    "topic": "CPIM",
@@ -13006,7 +13151,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13018,7 +13163,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-3.jpg",
    "page": 8,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার"
   },
   {
    "topic": "Congress",
@@ -13030,7 +13176,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13042,7 +13188,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-3.jpg",
    "page": 8,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার"
   },
   {
    "topic": "Election",
@@ -13054,7 +13201,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -13066,7 +13213,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-3.jpg",
    "page": 8,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার"
   },
   {
    "topic": "SIR",
@@ -13078,7 +13226,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৮",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13090,7 +13238,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p08-3.jpg",
    "page": 8,
-   "pos": "bottom-right"
+   "pos": "bottom-right",
+   "ocr_line": "ঘুষ চেয়েছিলেন জ্ঞানেশ কুমার"
   },
   {
    "topic": "CPIM",
@@ -13102,7 +13251,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "নেই, আলুর দাম তলানিতে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13114,7 +13263,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p09-1.jpg",
    "page": 9,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "নেই, আলুর দাম তলানিতে"
   },
   {
    "topic": "BJP",
@@ -13126,7 +13276,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "নেই, আলুর দাম তলানিতে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13138,7 +13288,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p09-1.jpg",
    "page": 9,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "নেই, আলুর দাম তলানিতে"
   },
   {
    "topic": "RSS",
@@ -13150,7 +13301,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "নেই, আলুর দাম তলানিতে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13162,7 +13313,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p09-1.jpg",
    "page": 9,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "নেই, আলুর দাম তলানিতে"
   },
   {
    "topic": "TMC",
@@ -13174,7 +13326,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "নেই, আলুর দাম তলানিতে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13186,7 +13338,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p09-1.jpg",
    "page": 9,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "নেই, আলুর দাম তলানিতে"
   },
   {
    "topic": "Congress",
@@ -13198,7 +13351,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "নেই, আলুর দাম তলানিতে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13210,7 +13363,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p09-1.jpg",
    "page": 9,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "নেই, আলুর দাম তলানিতে"
   },
   {
    "topic": "Mamata Banerjee",
@@ -13222,7 +13376,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "নেই, আলুর দাম তলানিতে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13234,7 +13388,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p09-1.jpg",
    "page": 9,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "নেই, আলুর দাম তলানিতে"
   },
   {
    "topic": "Election",
@@ -13246,7 +13401,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জামিন হলো না মিলনের",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ৯",
    "author": "",
    "tone": "Mixed",
    "tone_score": 3,
@@ -13258,7 +13413,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p09-1.jpg",
    "page": 9,
-   "pos": "middle-left"
+   "pos": "middle-left",
+   "ocr_line": "জামিন হলো না মিলনের"
   },
   {
    "topic": "CPIM",
@@ -13270,7 +13426,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "তহবিলে অর্থসাহায্য",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13282,7 +13438,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p10-1.jpg",
    "page": 10,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "তহবিলে অর্থসাহায্য"
   },
   {
    "topic": "TMC",
@@ -13294,7 +13451,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "তহবিলে অর্থসাহায্য",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13306,7 +13463,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p10-1.jpg",
    "page": 10,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "তহবিলে অর্থসাহায্য"
   },
   {
    "topic": "Election",
@@ -13318,7 +13476,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "বিক্ষোভের ভয়ে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13330,7 +13488,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p10-1.jpg",
    "page": 10,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিক্ষোভের ভয়ে"
   },
   {
    "topic": "SIR",
@@ -13342,7 +13501,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "বিক্ষোভের ভয়ে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১০",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13354,7 +13513,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p10-1.jpg",
    "page": 10,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "বিক্ষোভের ভয়ে"
   },
   {
    "topic": "CPIM",
@@ -13414,7 +13574,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জানিয়ে মামলা ৪ কুত্তিগিরের",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13426,7 +13586,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-1.jpg",
    "page": 14,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "জানিয়ে মামলা ৪ কুত্তিগিরের"
   },
   {
    "topic": "BJP",
@@ -13438,7 +13599,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জানিয়ে মামলা ৪ কুত্তিগিরের",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13450,7 +13611,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-1.jpg",
    "page": 14,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "জানিয়ে মামলা ৪ কুত্তিগিরের"
   },
   {
    "topic": "RSS",
@@ -13462,7 +13624,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জবাব চাইছে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13474,7 +13636,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-1.jpg",
    "page": 14,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "জবাব চাইছে"
   },
   {
    "topic": "Election",
@@ -13486,7 +13649,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জবাব চাইছে",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13498,7 +13661,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-1.jpg",
    "page": 14,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "জবাব চাইছে"
   },
   {
    "topic": "SIR",
@@ -13510,7 +13674,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "জানিয়ে মামলা ৪ কুত্তিগিরের",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13522,7 +13686,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-1.jpg",
    "page": 14,
-   "pos": "middle-centre"
+   "pos": "middle-centre",
+   "ocr_line": "জানিয়ে মামলা ৪ কুত্তিগিরের"
   },
   {
    "topic": "CPIM",
@@ -13534,7 +13699,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13546,7 +13711,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-2.jpg",
    "page": 14,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত"
   },
   {
    "topic": "BJP",
@@ -13558,7 +13724,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13570,7 +13736,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-2.jpg",
    "page": 14,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত"
   },
   {
    "topic": "Congress",
@@ -13582,7 +13749,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": -2,
@@ -13594,7 +13761,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-2.jpg",
    "page": 14,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত"
   },
   {
    "topic": "Suvendu Adhikari",
@@ -13606,7 +13774,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13618,7 +13786,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-2.jpg",
    "page": 14,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত"
   },
   {
    "topic": "Election",
@@ -13630,7 +13799,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13642,7 +13811,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-2.jpg",
    "page": 14,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত"
   },
   {
    "topic": "SIR",
@@ -13654,7 +13824,7 @@
    "source": "Ganashakti (print)",
    "source_bn": "গণশক্তি (ছাপা)",
    "language": "Bengali",
-   "headline": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত",
+   "headline": "ছাপা সংস্করণ · পৃষ্ঠা ১৪",
    "author": "",
    "tone": "Neutral",
    "tone_score": 0,
@@ -13666,7 +13836,8 @@
    "method": "epaper-ocr",
    "clip": "media/2026-09-26/ganashakti/ganashakti-p14-2.jpg",
    "page": 14,
-   "pos": "bottom-centre"
+   "pos": "bottom-centre",
+   "ocr_line": "লে টিন করনা জানেল নারে বকা এ জেনির দানিেকোরেনের নিত"
   },
   {
    "topic": "Suvendu Adhikari",

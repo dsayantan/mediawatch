@@ -109,6 +109,24 @@ article.item figure.clip img{display:block;width:100%;max-width:560px;height:aut
   border:1px solid var(--rule);background:#fff;}
 article.item figure.clip figcaption{margin-top:6px;font-size:.78rem;
   letter-spacing:.05em;text-transform:uppercase;color:var(--muted);}
+/* the landing page becomes two columns once there is room for them;
+   below that the e-paper list simply follows the tiles */
+.cols{display:grid;grid-template-columns:1fr;gap:26px;align-items:start;}
+@media (min-width:1040px){.cols{grid-template-columns:minmax(0,1fr) 270px;}}
+aside.rail{min-width:0}
+.ebox{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--red);
+  border-radius:0 5px 5px 0;padding:15px 16px;position:sticky;top:14px;}
+.ebox h3{margin:0 0 4px;font-size:.95rem;color:var(--red);letter-spacing:.02em;}
+.ebox .ehint{margin:0 0 12px;font-size:.78rem;color:var(--muted);line-height:1.5}
+.egrp{margin-bottom:12px}
+.egrp:last-child{margin-bottom:0}
+.egrp h4{margin:0 0 5px;font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;
+  color:var(--muted);font-weight:700}
+.egrp ul{list-style:none;margin:0;padding:0}
+.egrp li{border-bottom:1px solid var(--rule)}
+.egrp li:last-child{border-bottom:0}
+.egrp a{display:block;padding:6px 0;color:var(--ink);text-decoration:none;font-size:.88rem}
+.egrp a:hover,.egrp a:focus-visible{color:var(--red);padding-left:4px}
 article.item .clipref{margin:2px 0 9px;font-size:.78rem;letter-spacing:.05em;
   text-transform:uppercase;color:var(--muted);}
 /* most-watched videos: the thumbnail carries the story at a glance, so it

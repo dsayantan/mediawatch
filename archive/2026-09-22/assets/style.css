@@ -109,6 +109,24 @@ article.item figure.clip img{display:block;width:100%;max-width:560px;height:aut
   border:1px solid var(--rule);background:#fff;}
 article.item figure.clip figcaption{margin-top:6px;font-size:.78rem;
   letter-spacing:.05em;text-transform:uppercase;color:var(--muted);}
+/* the landing page becomes two columns once there is room for them;
+   below that the e-paper list simply follows the tiles */
+.cols{display:grid;grid-template-columns:1fr;gap:26px;align-items:start;}
+@media (min-width:1040px){.cols{grid-template-columns:minmax(0,1fr) 270px;}}
+aside.rail{min-width:0}
+.ebox{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--red);
+  border-radius:0 5px 5px 0;padding:15px 16px;position:sticky;top:14px;}
+.ebox h3{margin:0 0 4px;font-size:.95rem;color:var(--red);letter-spacing:.02em;}
+.ebox .ehint{margin:0 0 12px;font-size:.78rem;color:var(--muted);line-height:1.5}
+.egrp{margin-bottom:12px}
+.egrp:last-child{margin-bottom:0}
+.egrp h4{margin:0 0 5px;font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;
+  color:var(--muted);font-weight:700}
+.egrp ul{list-style:none;margin:0;padding:0}
+.egrp li{border-bottom:1px solid var(--rule)}
+.egrp li:last-child{border-bottom:0}
+.egrp a{display:block;padding:6px 0;color:var(--ink);text-decoration:none;font-size:.88rem}
+.egrp a:hover,.egrp a:focus-visible{color:var(--red);padding-left:4px}
 article.item .clipref{margin:2px 0 9px;font-size:.78rem;letter-spacing:.05em;
   text-transform:uppercase;color:var(--muted);}
 /* most-watched videos: the thumbnail carries the story at a glance, so it
@@ -137,6 +155,29 @@ article.vid .chips span.Negative{border-color:#a6332b;color:#8d2822;}
   article.vid{flex-wrap:wrap;}
   article.vid .shot{flex:0 0 100%;}
 }
+/* Day / week / month / year. Radio inputs rather than script: the panels are
+   all in the page, so the list is complete for a reader with no JavaScript and
+   for anything that prints or archives it. */
+.win input{position:absolute;opacity:0;pointer-events:none;}
+.win .tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px;}
+.win .tabs label{cursor:pointer;font-size:.86rem;letter-spacing:.03em;
+  padding:6px 15px;border:1px solid var(--rule);border-radius:15px;
+  color:var(--muted);background:var(--paper);}
+.win .tabs label:hover{border-color:var(--red);color:var(--red);}
+.win input:focus-visible + label{outline:2px solid var(--red);outline-offset:2px;}
+/* the panels are <section> so that nth-of-type counts only them — as <div>
+   they shared the type with .tabs and every selector below was off by one */
+.win section.panel{display:none;}
+.win > input:nth-of-type(1):checked ~ .tabs label:nth-of-type(1),
+.win > input:nth-of-type(2):checked ~ .tabs label:nth-of-type(2),
+.win > input:nth-of-type(3):checked ~ .tabs label:nth-of-type(3),
+.win > input:nth-of-type(4):checked ~ .tabs label:nth-of-type(4){
+  background:var(--red);border-color:var(--red);color:#fff;}
+.win > input:nth-of-type(1):checked ~ section.panel:nth-of-type(1),
+.win > input:nth-of-type(2):checked ~ section.panel:nth-of-type(2),
+.win > input:nth-of-type(3):checked ~ section.panel:nth-of-type(3),
+.win > input:nth-of-type(4):checked ~ section.panel:nth-of-type(4){display:block;}
+.secnote{margin:-6px 0 16px;color:var(--muted);font-size:.9rem;max-width:62ch;}
 .empty-note{background:var(--paper);border:1px dashed var(--rule);padding:26px 22px;
   text-align:center;color:var(--muted);}
 .counts{display:flex;gap:9px;flex-wrap:wrap;margin:17px 0 24px;}
